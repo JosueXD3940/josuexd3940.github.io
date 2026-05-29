@@ -1,0 +1,4 @@
+baseURL = "https://JosueXD3940.github.io/"
+languageCode = "es-mx"
+title = "Mi Sitio Web"
+theme = "hugo-profile"
